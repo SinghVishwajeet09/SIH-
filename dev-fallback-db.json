@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "testuser.demo@example.com",
+      "password_hash": "$2a$10$sJ.gJteY5qyhVqHXJgqah.zevfD05IgyMTfrkWZ49roz7z.DSJ.la",
+      "first_name": "TestUser",
+      "last_name": "Demo",
+      "role": "student",
+      "student_id": null,
+      "department": null,
+      "created_at": "2025-09-05T16:48:47.31Z",
+      "updated_at": "2025-09-05T16:48:47.311Z"
+    },
+    {
+      "id": 3,
+      "email": "pitambersingh379@gmail.com",
+      "password_hash": "$2a$10$MMTvT67iupXz7MmRBf6RRudHEA2C/A1IM6OAs/L1DYOOCzq/MUdli",
+      "first_name": "Pitamber",
+      "last_name": "Singh",
+      "role": "student",
+      "student_id": null,
+      "department": null,
+      "created_at": "2025-09-05T16:52:44.044Z",
+      "updated_at": "2025-09-05T16:52:44.044Z"
+    },
+    {
+      "id": 4,
+      "email": "Notthewitcher@gmail.com",
+      "password_hash": "$2a$10$hPiuIhBqtag3txVPK7u.q./lvKP3rDrElbpMTXJCJUS1wqkvCfdQW",
+      "first_name": "Pitamber",
+      "last_name": "Singh",
+      "role": "student",
+      "student_id": null,
+      "department": null,
+      "created_at": "2025-09-05T16:59:12.809Z",
+      "updated_at": "2025-09-05T16:59:12.809Z"
+    },
+    {
+      "id": 5,
+      "email": "faculty@university.edu",
+      "password_hash": "$2a$10$MMTvT67iupXz7MmRBf6RRudHEA2C/A1IM6OAs/L1DYOOCzq/MUdli",
+      "first_name": "Dr. Jane",
+      "last_name": "Professor",
+      "role": "faculty",
+      "student_id": null,
+      "department": "Computer Science",
+      "created_at": "2025-09-05T17:00:00.000Z",
+      "updated_at": "2025-09-05T17:00:00.000Z"
+    }
+  ],
+  "nextId": 6
+}
